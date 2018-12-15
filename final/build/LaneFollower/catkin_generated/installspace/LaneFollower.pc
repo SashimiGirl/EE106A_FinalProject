@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106a/fa18/class/ee106a-aen/ros_workspaces/final/install
+
+Name: LaneFollower
+Description: Description of LaneFollower
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cc/ee106a/fa18/class/ee106a-aen/ros_workspaces/final/install/lib 
+Requires: 
